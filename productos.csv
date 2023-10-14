@@ -1,4 +1,4 @@
-productID,servicio,precioUnitarioMax,descuento
+productoID,servicio,precioMax,descuento
 1,Sala de Bautizo,1000,0
 2,Sala de Boda,1000,0
 3,Sala de Reuniones,5000,0
@@ -7,5 +7,5 @@ productID,servicio,precioUnitarioMax,descuento
 6,Sala de 1 de comunion,1000,0
 7,Sala al aire libre,20000,0
 8,Sala con juegos para niños,1000,0
-9,Evento de tiro con aire comprimido,1000,1
-10,Sala de reunion ejectuvia,1000,0
+9,Evento pelea,1000,1
+10,Sala ejecutiva,20000,0
